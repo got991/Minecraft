@@ -1,2 +1,10 @@
 # Minecraft
-Minecraft is sandbox game.
+Minecraft is a sandbox independent video game. The official translation of minecraft in China is "我的世界", also known as "being a creator God". Inspired by endless miners, created by notch and now maintained by mojang studios, it is part of the Xbox studio.
+From its inception until Jens bergenstein, now the lead developer, joined the work, minercraft's development was almost entirely done by notch. The music was produced by Daniel Rosenfeld and Lena Raine, and was painted by Christopher zetsland. The version released on May 17, 2009 is now called minecraft classic, and the game released minecraft 1.0 on November 18, 2011. Since its launch, minecraft's game platform includes mobile devices and game hosts. On November 6, 2014, all assets of minecraft and mojang were acquired by Microsoft.
+Minecraft focuses on allowing players to explore, interact, and change a map that is dynamically generated from one cubic meter square. In addition to squares, environmental functions include plants, organisms and objects. Some of the activities in the game include collecting minerals, fighting against hostile creatures, synthesizing new squares and collecting various resources found in the game. Unlimited mode in the game allows players to create buildings, works and art in various multiplayer game servers or their single player mode. Other functions include the red stone circuit for logical calculation and remote action, tramcars and tracks, and the mysterious world called "lower bound.". Finally, you can choose to travel to a dimension called "the end of the road" and defeat Mo Yinglong.
+
+Minecraft是一款沙盒类独立视频游戏，中国版官方译名为《我的世界》，又称《当个创世神》。其灵感来自无尽矿工，由马库斯·泊松（Notch）开创，现由Mojang Studios维护，是Xbox工作室的一部分。
+
+自开创伊始，直至现为首席开发者的延斯·伯根斯坦加入工作之前，Minecraft的开发工作几乎完全由Notch完成。其音乐是由丹尼尔·罗森菲尔德和Lena Raine制作，由克里斯托弗·泽特斯特兰进行画的绘制。在2009年5月17日发布的版本现在被称为Minecraft Classic，游戏于2011年11月18日发布了Minecraft 1.0。自发布以来，Minecraft的游戏平台囊括了移动设备和游戏主机。2014年11月6日，Minecraft及Mojang的全部资产被微软收购。
+
+Minecraft着重于让玩家去探索、交互，并且改变一个由一立方米大小的方块动态生成的地图。除了方块以外，环境功能还包括植物、生物与物品。游戏里的一些活动包括采集矿石、与敌对生物战斗、合成新的方块与收集各种在游戏中找到的资源的工具。游戏中的无限制模式让玩家在各种多人游戏服务器或他们的单人模式中进行创造建筑物、作品与艺术创作。其他功能包括逻辑运算与远程动作的红石电路、矿车及轨道，以及称之为“下界”的神秘世界。最终，可以选择前往一个叫做“末路之地”的维度旅行，并击败末影龙。
